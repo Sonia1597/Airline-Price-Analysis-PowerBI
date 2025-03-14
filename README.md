@@ -28,5 +28,5 @@ This project presents an **Airline Price Prediction Analysis Dashboard** built u
 ## 🚀 How to Use  
 1. **Clone the Repository**  
    ```sh
- https://github.com/Sonia1597/Airline-Price-Analysis-PowerBI
+   https://github.com/Sonia1597/Airline-Price-Analysis-PowerBI
 
